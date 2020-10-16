@@ -8,8 +8,6 @@
   "dates": [],
   "creators": [
     {
-      "name": "BrainsCan, The University of Western Ontario",
-      "abbreviation": "uwo",
       "fullName": "Dr. Marco Prado",
       "firstName": "Marco",
       "lastName": "Prado",
@@ -21,8 +19,6 @@
       ]
     },
     {
-      "name": "University of Guelph",
-      "abbreviation": "uoguelph",
       "fullName": "Dr. Boyer Winters",
       "firstName": "Boyer",
       "lastName": "Winters",
@@ -53,7 +49,7 @@
       "formats": [
         "csv"
       ],
-      "size": "100",
+      "size": 100,
       "unit": {
         "value": "MB"
       },
@@ -327,8 +323,10 @@
       ],
       "dates": [
         {
-          "description": "",
-          "date": "2019-12-11"
+          "date": "2019-12-11 00:00:00",
+          "type": {
+             "value": "Publication Date"
+           }
         }
       ],
       "identifier": {
@@ -350,8 +348,7 @@
       "name": "Grants",
       "funders": [
         {
-          "name": "Weston Brain Institute",
-          "abbreviation": ""
+          "name": "Weston Brain Institute"
         },
         {
           "name": "Canada First Research Excellence Fund",
@@ -448,22 +445,6 @@
       "values": [
         {
           "value": "Sara Memar, smemarko@uwo.ca"
-        }
-      ]
-    },
-    {
-      "category": "derivedFrom",
-      "values": [
-        {
-          "value": "Touchscreen Technology"
-        }
-      ]
-    },
-    {
-      "category": "parent_dataset_id",
-      "values": [
-        {
-          "value": ""
         }
       ]
     }
