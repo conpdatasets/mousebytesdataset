@@ -401,13 +401,13 @@
       ]
     },
     {
-      "category": "logo",
-      "values": [
-        {
-          "value": "logo.png"
-        }
-      ]
-    },
+		"category": "logo",
+		"values": [
+			{
+				"value": "logo.png"
+			}
+		]
+	},
     {
       "category": "origin_institution",
       "values": [
