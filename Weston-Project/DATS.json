@@ -5,7 +5,6 @@
     "identifier": "10.7554/eLife.49630",
     "identifierSource": "https://elifesciences.org/articles/49630"
   },
-  "dates": [],
   "creators": [
     {
       "name": "BrainsCan, The University of Western Ontario",
@@ -51,7 +50,7 @@
   "distributions": [
     {
       "formats": [
-        "csv"
+        "CSV"
       ],
       "size": "100",
       "unit": {
@@ -342,9 +341,6 @@
       "name": "Cognitive behavioral data from Alzheimer’s mouse models"
     }
   ],
-  "spatialCoverage": [],
-  "aggregation": "",
-  "dimensions": [],
   "acknowledges": [
     {
       "name": "Grants",
