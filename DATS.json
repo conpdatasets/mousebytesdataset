@@ -324,7 +324,7 @@
         {
           "date": "2019-12-11 00:00:00",
           "type": {
-             "value": "Publication Date"
+             "value": "publication date"
            }
         }
       ],
@@ -457,7 +457,7 @@
 		{
 		  "date": "2019-06-30 00:00:00",
 		  "type": {
-			"value": "This dataset was published in June 2019 in the Journal of Federation of American Societies for Experimental Biology "
+			"value": "publication date"
 		  }
 		}
 	  ],
@@ -643,7 +643,7 @@
 			{
 			  "date": "2019-07-30 00:00:00",
 			  "type": {
-				"value": "This dataset was published in June 2019 in the Journal of Federation of American Societies for Experimental Biology "
+				"value": "publication date"
 			  }
 			}
 		  ],
