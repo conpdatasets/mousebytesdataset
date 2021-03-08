@@ -341,7 +341,10 @@
                 "identifierSource":"https://www.ncbi.nlm.nih.gov/taxonomy/10090"
             },
             "name":"Mus musculus"
-        }
+        },
+		{
+			"name": "Alzheimer's Disease"
+		}
   ],
   "acknowledges": [
     {
