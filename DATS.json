@@ -491,7 +491,7 @@
 		}
 	  ],
 	  "version": "1",
-	  "privacy": "public",
+	  "privacy": "open",
       "licenses": [
         {
             "identifier": {
@@ -666,6 +666,13 @@
 		}
 	  ],
 	  "isAbout": [
+        {
+            "identifier": {
+                "identifier": "10090",
+                "identifierSource":"https://www.ncbi.nlm.nih.gov/taxonomy/10090"
+            },
+            "name":"Mus musculus"
+        },
 		{
 		  "name": "Cognitive behavioral data from cholinergic-deficient mouse model"
 		}
