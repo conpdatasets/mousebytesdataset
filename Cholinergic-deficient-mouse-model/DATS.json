@@ -44,7 +44,7 @@
   "distributions": [
     {
       "formats": [
-        "csv"
+        "CSV"
       ],
       "size": "5",
       "unit": {
@@ -211,9 +211,6 @@
       "name": "Cognitive behavioral data from cholinergic-deficient mouse model"
     }
   ],
-  "spatialCoverage": [],
-  "aggregation": "",
-  "dimensions": [],
   "acknowledges": [
     {
       "name": "Grants",

@@ -5,7 +5,6 @@
     "identifier": "10.7554/eLife.49630",
     "identifierSource": "https://elifesciences.org/articles/49630"
   },
-  "dates": [],
   "creators": [
     {
       "fullName": "Dr. Marco Prado",
@@ -38,16 +37,17 @@
     }
   ],
   "version": "1",
-  "privacy": "public",
+  "privacy": "open",
   "licenses": [
     {
-      "name": "CC0"
+        
+        "name": "CC0"
     }
   ],
   "distributions": [
     {
       "formats": [
-        "csv"
+        "CSV"
       ],
       "size": 100,
       "unit": {
@@ -325,7 +325,7 @@
         {
           "date": "2019-12-11 00:00:00",
           "type": {
-             "value": "Publication Date"
+             "value": "publication date"
            }
         }
       ],
@@ -336,13 +336,17 @@
     }
   ],
   "isAbout": [
-    {
-      "name": "Cognitive behavioral data from Alzheimer’s mouse models"
-    }
+        {
+            "identifier": {
+                "identifier": "10090",
+                "identifierSource":"https://www.ncbi.nlm.nih.gov/taxonomy/10090"
+            },
+            "name":"Mus musculus"
+        },
+        {
+            "name": "Alzheimer's disease"
+        }
   ],
-  "spatialCoverage": [],
-  "aggregation": "",
-  "dimensions": [],
   "acknowledges": [
     {
       "name": "Grants",
@@ -461,7 +465,7 @@
 		{
 		  "date": "2019-06-30 00:00:00",
 		  "type": {
-			"value": "This dataset was published in June 2019 in the Journal of Federation of American Societies for Experimental Biology "
+			"value": "publication date"
 		  }
 		}
 	  ],
@@ -487,16 +491,20 @@
 		}
 	  ],
 	  "version": "1",
-	  "privacy": "public",
-	  "licenses": [
-		{
+	  "privacy": "open",
+      "licenses": [
+        {
+            "identifier": {
+                "identifier": "ilx_0102627",
+                "identifierSource":"http://uri.interlex.org/ilx_0102627"
+            },
 		  "name": "CC0"
-		}
-	  ],
+        }
+       ],
 	  "distributions": [
 		{
 		  "formats": [
-			"csv"
+			"CSV"
 		  ],
 		  "size": 5,
 		  "unit": {
@@ -647,7 +655,7 @@
 			{
 			  "date": "2019-07-30 00:00:00",
 			  "type": {
-				"value": "This dataset was published in June 2019 in the Journal of Federation of American Societies for Experimental Biology "
+				"value": "publication date"
 			  }
 			}
 		  ],
@@ -658,13 +666,17 @@
 		}
 	  ],
 	  "isAbout": [
+        {
+            "identifier": {
+                "identifier": "10090",
+                "identifierSource":"https://www.ncbi.nlm.nih.gov/taxonomy/10090"
+            },
+            "name":"Mus musculus"
+        },
 		{
 		  "name": "Cognitive behavioral data from cholinergic-deficient mouse model"
 		}
 	  ],
-	  "spatialCoverage": [],
-	  "aggregation": "",
-	  "dimensions": [],
 	  "acknowledges": [
 		{
 		  "name": "Grants"
