@@ -11,7 +11,7 @@ Source: https://mousebytes.ca <br/>
 DOI: https://doi.org/10.1096/fj.201802108R <br/>
 Animal Specie: Mouse <br/>
 Animal Sex: Male <br/>
-Animal age (month): "7-10" for PAL and PVD tasks, "11-14" for 5-choice task<br/>
+Animal age (month): "7-10" for 5-choice task, "11-13" for PAL, PVD, and extinction tasks<br/>
 Animal strain: VAChT^En1-Cre-flox/flox <br/>
 Animal Genotype:  VAChT^En1-Cre-flox/flox, VAChT^flox/flox <br/>
 Housing: Single-housed <br/>
@@ -51,7 +51,19 @@ Cognitive Task: Paired-Associates Learning (PAL), Analysis <br/>
 Aggregation Function: Mean <br/>
 Trial by Trial: No <br/>
 
+File Name:OK_En1CreVAChTfx_Extinction_training.csv <br/>
+PI: Dr. Marco Prado, Robarts Research Institute (University of Western Ontario) <br/>
+Data Link: https://mousebytes.ca/data-link?linkguid=be379ef0-78a0-4839-b08c-7a143e180ed4 <br/>
+Cognitive Task: Extinction, Training <br/>
+Aggregation Function: Mean <br/>
+Trial by Trial: No <br/>
 
+File Name:OK_En1CreVAChTfx_Extinction_probe.csv <br/>
+PI: Dr. Marco Prado, Robarts Research Institute (University of Western Ontario) <br/>
+Data Link: https://mousebytes.ca/data-link?linkguid=ffed86b9-87c4-4b19-a737-19e01d1fb644 <br/>
+Cognitive Task: Extinction, Probe <br/>
+Aggregation Function: Mean <br/>
+Trial by Trial: No <br/>
 
 ### TRIAL BY TRIAL DATA: 
 
@@ -78,15 +90,19 @@ Cognitive Task: Paired-Associates Learning (PAL), Acquisition <br/>
 Aggregation Function: N/A <br/>
 Trial by Trial: Yes <br/>
 
-
-File Name: OK_En1CreVAChTfx_PAL_analysis_Trial.csv <br/>
+File Name: OK_En1CreVAChTfx_Extinction_training_Trial.csv <br/>
 PI: Dr. Marco Prado, Robarts Research Institute (University of Western Ontario) <br/>
-Data Link: https://mousebytes.ca/data-link?linkguid=c08f5591-39d5-47a5-a2eb-8e27a05fd82e <br/>
-Cognitive Task: Paired-Associates Learning (PAL), Analysis <br/>
+Data Link: https://mousebytes.ca/data-link?linkguid=25ece7a3-f192-454b-b95a-02e3162fd8a9 <br/>
+Cognitive Task: Extinction, Training <br/>
 Aggregation Function: N/A <br/>
 Trial by Trial: Yes <br/>
 
-
+File Name: OK_En1CreVAChTfx_Extinction_probe_Trial.csv <br/>
+PI: Dr. Marco Prado, Robarts Research Institute (University of Western Ontario) <br/>
+Data Link: https://mousebytes.ca/data-link?linkguid=58127af1-b693-4bd5-b0ed-f15c8cfd08ae <br/>
+Cognitive Task: Extinction, Probe <br/>
+Aggregation Function: N/A <br/>
+Trial by Trial: Yes <br/>
 
 
 
