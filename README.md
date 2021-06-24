@@ -12,10 +12,13 @@ This dataset has data files from 5-Choice, Pairwise Visual Discrimination (PVD),
 
 ### Dataset 2 (Cholinergic-deficient-mouse-model): "Brainstem cholinergic-deficient mouse model (VAChT^En1-Cre-flox/flox) dataset"
 
-Male mice and their wild-type controls were evaluated at 11-13 months of age to assess discrimination learning and cognitive flexibility using Pairwise visual discrimination (PVD) task and to assess learning and memory deficits using Pairwise Associate Learning (PAL) task. Male mice and their wild-type controls were also evaluated at 7-10 months of age using 5-Choice Serial Reaction Time (5-CSRT) task for assessing attention deficits.
-*An extinction task is also present - research purposes TBA*
+Male mice and their wild-type controls were evaluated at 7-10 months of age using the 5-Choice Serial Reaction Time (5-CSRT) task to assess attention. Immediately after (approximately at 9-12 months of age) these same mice were evaluated using the Extinction task to assess their ability to extinguish a response. A different cohort of male mice and their wild-type controls were evaluated at 11-13 months of age in the Pairwise visual discrimination (PVD) task to assess discrimination and reversal learning. Immediately after (still within 11-13 months of age) these same mice were evaluated using the Pairwise Associate Learning (PAL) task to assess learning and memory.
 
-### DATASET 3: TO BE ADDED
+### Dataset 3: (Co-transmission-of-cholinergic-interneurons): "Mouse models that differ in neurotransmitter release from striatal cholinergic interneurons"
+
+
+This dataset has data files from 5-Choice Serial Reaction Time (5-CSRT), Pairwise Visual Discrimination (PVD), and Extinction cognitive behavioral tasks for 4 mouse lines that differ in neurotransmitter release from striatal cholinergic interneurons (ACh or Glu). D2CreVGLUT3fx and ChATIRESVGLUT3fx mice and their wild-type controls were evaluated at 3-7 months of age in the PVD task to assess discrimination and reversal learning. Immediately after (still within 3-7 months of age) these same mice were evaluated using the Extinction task to assess their ability to extinguish a response. D2CreVAChTfx mice and their wild-type controls were evaluated at 5-7 months of age in the 5-CSRT task to assess attention. Immediately after (still within 3-7 months of age) these same mice were evaluated using the Extinction task. VAChTfx control mice that were virally injected with GFP or Cre in the dorsal striatum were evaluated at 6-12 months in the PVD task, followed by the 5-CSRT task (approximately at 8-14 months of age).
+
 
 -------------------------------------------------------------------------------------------------------------
 Please contact us at mousebytes@uwo.ca if you have any question/concern.
