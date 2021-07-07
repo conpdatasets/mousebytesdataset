@@ -1,6 +1,6 @@
-# MouseBytes- Cognitive Behavioral Data from Touchscreen Technology
+# Weston-Project: Alzheimer’s mouse models dataset
 
-Here, you can find all the metadata that are common for the whole dataset and also the metadata associated to each csv file. 
+This dataset has data files from 5-Choice, Pairwise Visual Discrimination (PVD), and Paired-Associates Learning (PAL) cognitive behavioral tasks in which male and female mice from 3 Alzheimer’s mouse models (3xTG-AD, 5XFAD, APP/PS1) were tested using touchscreen technology at two different sites (e.g. University of Western Ontario and University of Guelph). Both aggregated data and trial-by-trial data are provided in this dataset.
 
 ## COMMON METADATA:
 
