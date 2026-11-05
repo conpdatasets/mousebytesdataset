@@ -1,9 +1,6 @@
 {
   "title": "Alzheimer’s mouse models dataset",
   "description": "This dataset has data files from 5-Choice, Pairwise Visual Discrimination (PVD), and Paired-Associates Learning (PAL) cognitive behavioral tasks in which male and female mice from 3 Alzheimer’s mouse models were tested using touchscreen technology at two different sites (e.g. University of Western Ontario and University of Guelph). Both aggregated data and trial-by-trial data are provided in this dataset. ",
-  "identifier": {
-    "identifier": "https://elifesciences.org/articles/49630"
-  },
   "creators": [
     {
       "fullName": "Dr. Marco Prado",
